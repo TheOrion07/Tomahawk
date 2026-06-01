@@ -259,7 +259,7 @@
                     Aircraft
                     <ul class="geofs-collapsible">
                         <li data-url="https://www.geo-fs.com/backend/aircraft/repository/md11_380019_5369/" data-mpid="1023">McDonnell Douglas MD-11 (ADSB)</li>
-                        <li data-url="https://www.geo-fs.com/backend/aircraft/repository/c25a_380019_5367/" data-mpid="1021">Cessna Citation CJ2 (ADSB)</li>
+                        <li data-url="https://github.com/TheOrion07/Tomahawk/blob/main/Missile%20BGM-109%20Tomahawk.glb" data-mpid="1021">Cessna Citation CJ2 (ADSB)</li>
                         <li data-url="https://www.geo-fs.com/backend/aircraft/repository/heli_380019_5371/" data-mpid="1025">Eurocopter AS365 Dauphin (ADSB)</li>
                         <li data-url="https://www.geo-fs.com/backend/aircraft/repository/e190_380019_5372/" data-mpid="1018">Embraer E190 (ADSB)</li>
                         <li data-url="https://www.geo-fs.com/backend/aircraft/repository/crj900_380019_5389/" data-mpid="1016">Bombardier CRJ900 (ADSB)</li>
